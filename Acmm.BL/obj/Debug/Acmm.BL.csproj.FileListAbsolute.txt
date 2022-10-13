@@ -1,0 +1,6 @@
+C:\Users\Decagon\source\repos\Acm\Acmm.BL\bin\Debug\Acmm.BL.dll
+C:\Users\Decagon\source\repos\Acm\Acmm.BL\bin\Debug\Acmm.BL.pdb
+C:\Users\Decagon\source\repos\Acm\Acmm.BL\obj\Debug\Acmm.BL.csproj.AssemblyReference.cache
+C:\Users\Decagon\source\repos\Acm\Acmm.BL\obj\Debug\Acmm.BL.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\source\repos\Acm\Acmm.BL\obj\Debug\Acmm.BL.dll
+C:\Users\Decagon\source\repos\Acm\Acmm.BL\obj\Debug\Acmm.BL.pdb
